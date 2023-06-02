@@ -1,0 +1,1 @@
+print("Alice\nBob\nCharlie")
